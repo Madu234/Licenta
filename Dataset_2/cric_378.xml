@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset_2</folder>
+	<filename>cric_378.png</filename>
+	<path>C:\Users\ciopl\OneDrive\Desktop\Datasets\Dataset_2\cric_378.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1376</width>
+		<height>1020</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Abn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>531</ymin>
+			<xmax>615</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+</annotation>

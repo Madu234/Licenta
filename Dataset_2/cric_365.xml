@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset_2</folder>
+	<filename>cric_365.png</filename>
+	<path>C:\Users\ciopl\OneDrive\Desktop\Datasets\Dataset_2\cric_365.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1376</width>
+		<height>1020</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Abn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>729</xmin>
+			<ymin>453</ymin>
+			<xmax>803</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>
